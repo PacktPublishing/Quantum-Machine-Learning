@@ -5,7 +5,7 @@
 
 
 ***
-#### Thank you to these original authors and to the IBM Q team, for making the template Jupyter notebook available to the machine learning community.
+#### Thank you to these original authors and to the IBM Q team for making the template Jupyter notebook available to the machine learning community.
 Vojtech Havlicek<sup>[1]</sup>, Kristan Temme<sup>[1]</sup>, Antonio Córcoles<sup>[1]</sup>, Peng Liu<sup>[1]</sup>, Richard Chen<sup>[1]</sup>, Marco Pistoia<sup>[1]</sup> and Jay Gambetta<sup>[1]</sup>
 
 #### References and additional details:
