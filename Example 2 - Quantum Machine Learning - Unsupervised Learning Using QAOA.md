@@ -21,7 +21,7 @@ Installing everything you need on your own laptop takes a little time, so for ri
 
 # Overview
 
-1) Click on [the Binder image](https://gitlab.com/qosf/qml-mooc/blob/master/qiskit_version/10_Discrete_Optimization_and_Unsupervised_Learning.ipynb) (2 min)
+1) Click on [the Binder image](https://mybinder.org/v2/gh/PacktPublishing/Quantum-Machine-Learning/blob/master?urlpath=https%3A%2F%2Fgithub.com%2FPacktPublishing%2FQuantum-Machine-Learning%2Fblob%2Fmaster%2FQAOA.ipynb) (2 min)
 
 2) Run the Jupyter Notebook. If this is your first time using a Jupyter Notebook, select a cell (it will now have a blue border).  Now SHIFT then RETURN to run the code on the remote server.  The notes below will add explanations and a lot more context to the published notebooks. I thought this was a much more efficient way to help you because you can always link to the newest published code, download it, and use these notes to modify as you wish. 
 
