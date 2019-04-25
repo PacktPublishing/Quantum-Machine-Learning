@@ -6,7 +6,7 @@
 
 ***
 #### Thank you to these original authors for making the template Jupyter notebook available to the machine learning community.
-Peter Wittek and team from the Quantum Machine Learning edx inaugural course. This course will be offered again soon. Check out https://www.edx.org/.
+Peter Wittek and team from the Quantum Machine Learning edX inaugural course. This course will be offered again soon. Check out https://www.edx.org/.
 
 #### References and additional details:
 https://gitlab.com/qosf/qml-mooc/blob/master/qiskit_version/10_Discrete_Optimization_and_Unsupervised_Learning.ipynb
